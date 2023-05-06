@@ -13,6 +13,6 @@
     "nativescript-plugin-firebase": "^8.3.2"
   },
   "devDependencies": {
-    "nativescript": "~5.0.0"
+    "nativescript": "~5.4.2"
   }
 }
